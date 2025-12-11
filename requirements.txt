@@ -1,0 +1,16 @@
+numpy<2.0
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+einops
+PyYAML
+torch
+python-box
+joblib
+psutil
+jupyter
+ipykernel
+ipython
+tensorboard
